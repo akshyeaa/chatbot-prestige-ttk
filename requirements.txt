@@ -1,0 +1,14 @@
+arxiv
+wikipedia
+langchainhub
+
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+sentence-transformers
+python-dotenv
+requests
+beautifulsoup4
