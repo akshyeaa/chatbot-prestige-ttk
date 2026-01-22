@@ -1,5 +1,4 @@
 # prestige_streamlit_app.py
-# Streamlit AI Product Advisor – Production‑style UI + Memory + Multilingual + RAG
 
 import streamlit as st
 import uuid
@@ -284,5 +283,6 @@ if user_input:
                     st.experimental_rerun()
 
 st.markdown("</div>", unsafe_allow_html=True)
+
 
 
