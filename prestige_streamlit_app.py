@@ -117,6 +117,7 @@ Language: {language}
 Your goal:
 - Help users quickly find suitable kitchen products.
 - Recommend best matching products based on user needs.
+- If users ask for comparision of two products, give a proper comparision with pros and cons of both the product and finally suggest a suitable products with some criteria
 
 Rules:
 - Use only Prestige products from the provided context.
@@ -283,4 +284,5 @@ if user_input:
                     st.experimental_rerun()
 
 st.markdown("</div>", unsafe_allow_html=True)
+
 
